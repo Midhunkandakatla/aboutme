@@ -11,5 +11,9 @@ GitHub allows you to create webpages.It's fun using GitHub and creating webpages
 1. [CSS](https://www.w3schools.com/html/html_css.asp/ "w3school CSS"): CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once.
 1. [JavaScript](https://www.w3schools.com/js/ "w3school JavaScript"): An object-oriented computer programming language commonly used to create interactive effects within web browsers.
 1. [Notepad ++](https://notepad-plus-plus.org/): Notepad is a simple but very powerful tool.
+## Recommended resources
+1. [Udemy](https://www.udemy.com/): Udemy is a professional website and helps you in learning HTML,CSS and JavaScript and many more.
+1. [w3 schools](https://www.w3schools.com/) : w3 schools is a online learning website and is helps you in understanding HTML.
+1. [WordPress](https://wordpress.com/ "WordPress - homepage"): WordPress is, by far, the most popular open source Content Management System (CMS), used by approximately 75 million websites. WordPress is free to install, deploy, and upgrade. 
 
 
