@@ -18,5 +18,5 @@ GitHub allows you to create webpages.It's fun using GitHub and creating webpages
 1. [GitHub](https://github.com/): GitHub allows you to create free online repositeries.
 ## Contributors
 I'm Midhun Kandakatla.I'm an Applied Computer Science graduate student in NorthWest Missouri State University.
-![Midhun Kandakatla](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiR1bHl0IngAhUKD60KHdBHAhAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.gettyimages.in%2Fphotos%2Fmahendra-singh-dhoni&psig=AOvVaw2S-YWmIyj32VvWtxxhNlUE&ust=1548529696338223)
+![Midhun Kandakatla](![vscode image](https://awallpaperfree.com/wp-content/uploads/2018/09/ms.jpg)
 
