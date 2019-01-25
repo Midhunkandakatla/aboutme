@@ -19,5 +19,5 @@ GitHub allows you to create webpages.It's fun using GitHub and creating webpages
 ## Contributors
 I'm Midhun Kandakatla.I'm an Applied Computer Science graduate student in NorthWest Missouri State University.
 
-![Midhun Kandakatla](![vscode image](https://awallpaperfree.com/wp-content/uploads/2018/09/ms.jpg)
+![Midhun Kandakatla] (![vscode image](https://awallpaperfree.com/wp-content/uploads/2018/09/ms.jpg)
 
