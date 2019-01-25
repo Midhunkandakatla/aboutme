@@ -2,8 +2,8 @@
 
 ## Repository Links
 
-- [GitHub](https://github.com/Midhunkandakatla) : My GitHub profile.
-- [BitBucket](https://bitbucket.org/KandakatalMidhun/) : My BitBucket profile.
+- [GitHub Repository](https://github.com/Midhunkandakatla/aboutme/)
+- [Published Page](https://midhunkandakatla.github.io/aboutme/)
 
 
 ## About
