@@ -2,7 +2,7 @@
 
 ## Repository Links
 
-[GitHub](https://github.com/Midhunkandakatla) : My GitHub profile.
+-[GitHub](https://github.com/Midhunkandakatla) : My GitHub profile.
 
 
 ## About
